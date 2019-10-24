@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-second-attempt/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/react-tutorial-second-attempt/static/js/main.a32cf16d.chunk.js",
+    "main.js.map": "/react-tutorial-second-attempt/static/js/main.a32cf16d.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-second-attempt/static/js/runtime-main.8d7059bd.js",
+    "runtime-main.js.map": "/react-tutorial-second-attempt/static/js/runtime-main.8d7059bd.js.map",
+    "static/js/2.31e54e4c.chunk.js": "/react-tutorial-second-attempt/static/js/2.31e54e4c.chunk.js",
+    "static/js/2.31e54e4c.chunk.js.map": "/react-tutorial-second-attempt/static/js/2.31e54e4c.chunk.js.map",
+    "index.html": "/react-tutorial-second-attempt/index.html",
+    "precache-manifest.75ee7268f22bd994a00c650282712da6.js": "/react-tutorial-second-attempt/precache-manifest.75ee7268f22bd994a00c650282712da6.js",
+    "service-worker.js": "/react-tutorial-second-attempt/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/react-tutorial-second-attempt/static/css/main.d498bfb3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7059bd.js",
+    "static/js/2.31e54e4c.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.a32cf16d.chunk.js"
+  ]
+}
